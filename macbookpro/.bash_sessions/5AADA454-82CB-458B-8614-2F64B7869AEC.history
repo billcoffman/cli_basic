@@ -1,0 +1,258 @@
+vi
+pwd
+cd ..
+ll
+cd ..
+pwd
+pwd
+cd dev
+ll
+mkdir Rubiks\ Cube
+cd Rubiks\ Cube/
+charm .
+brew pycharm
+brew update pycharm
+brew upgrade pycharm
+brew search pycharm
+brew install pycharm-ce-with-anaconda-plugin
+brew install pycharm-ce
+brew install pycharm
+brew cask install pycharm-ce-with-anaconda-plugin
+alias charm
+which charm
+ll /usr/local/bin/charm
+vi /usr/local/bin/charm
+charm
+py
+which pythong
+which python
+python -v
+python -V
+brew install python3
+py
+cd dev/
+ll
+lll magicleap/
+ll
+ll
+mkdir deeplearning.ai
+cd deeplearning.ai/
+open .
+pwd
+ope .
+open .
+pwd
+open /Users/bcoff/dev/deeplearning.ai
+charm .
+vi one.py
+py
+py
+vi
+j
+f
+py
+fg
+py
+jobs
+vi one.py 
+vi one.py 
+ll
+open .
+j
+py
+f
+pip install h5py
+pip3 install h5py
+py
+pip3 install lr_utils
+py
+pip3 install PIL
+pip3 install matplotlib
+pip3 install scipy
+jobs
+vi a1.py
+py
+f
+fg
+jobs
+vi a1.py 
+py
+df -h
+df -hl
+df -hl
+df -hl
+df -hl
+df -hl
+df -hl
+jobs
+ssh -v miltechholdings.com
+ssh  miltechholdings.com
+ssh -A milapp.net
+ssh -A root@milapp.net
+vi .ssh/config
+ssh -A root@milapp.net
+ssh -A bcoff@milapp.net
+sudo su - mac
+ls -ltr
+fg
+ssh -A bcoff@milapp.net
+ssh -A bcoff@milapp.net
+open /Users/bcoff/.ssh/id_rsa
+ssh -A root@milapp.net
+ssh -A bcoff@milapp.net
+ssh admin@8.26.21.72
+pwd
+cd .ssh
+pbcopy < ~/.ssh/id_rsa.pub
+vi ~/.ssh/id_rsa.pub
+ssh admin@milapp.net
+vi ~/.ssh/
+jobs
+fg
+ssh admin@milapp.net
+vi ~/.ssh/
+ssh admin@milapp.net
+ssh admin@milapp.net
+cat id_rsa.pub 
+md5 id_rsa.pub 
+pwd
+vi config 
+ssh admin@milapp.net
+ssh bcoff@milapp.net
+ssh bcoff@milapp.net
+ssh bcoff@milapp.net
+ssh bcoff@milapp.net
+vi ~/.ssh/config 
+ssh bcoff@milapp.net
+ssh bcoff@milapp.net
+ssh bcoff@milapp.net
+ssh bcoff@milapp.net
+pwd
+ll
+cd ../..
+ll
+cd dev
+ll
+cd mm
+ll
+vi pass1 
+ll
+vi credentials.csv 
+lll
+vi instructions.txt 
+lll
+pw
+pwd
+lll
+vi credentials.csv 
+cat pass1 
+ssh admin@milapp.net
+ssh bcoff@milapp.net
+ssh bcoff@milapp.net
+lll
+pwd
+ssh root@8.26.21.72
+ll
+pwd
+cat pass1 
+pwd
+ll
+cat instructions.txt 
+more instructions.txt 
+ssh admin@8.26.21.72
+ssh bcoff@8.26.21.72
+head /Users/bcoff/.ssh/id_rsa
+ssh root@8.26.21.72
+ll
+vi instructions.txt 
+pwd
+ssh root@8.26.21.72
+scp root@8.26.21.72:id_rsa .
+ll
+ll ~/.ssh
+#mv ~/.ssh/id_rsa*
+mkdir ~/.ssh/old_2018_keys/
+mv ~/.ssh/id_rsa* ~/.ssh/old_2018_keys/
+ll id_rsa 
+mv id_rsa ~/.ssh/
+ll ~/.ssh/x
+ll ~/.ssh/y
+ll ~/.ssh/z
+ll ~/.ssh/z1
+cd ~/.ssh/
+ll
+mv x y z z1/ old_2018_keys/
+ll old_2018_keys/
+cd -
+ssh admin@milapp.net
+ll /Users/bcoff/.ssh/id_rsa
+ll /Users/bcoff/.ssh/old_2018_keys/id_rsa
+ssh admin@milapp.net
+ssh-keygen -t rsa
+pbcopy < ~/.ssh/id_rsa.pub
+ssh root@8.26.21.72
+jobs
+ssh root@8.26.21.72
+ping 172.17.0.1
+vi pronto.txt
+cat pronto.txt 
+pinc -c 2 8.26.21.72
+vi pronto.txt 
+cat pronto.txt 
+ping -c 2 8.26.21.72
+ping -c 2 8.26.21.237
+ping -c 2 8.26.21.238
+jobs
+python
+cat pronto.txt 
+xcode-select --install
+xcode-select --install
+xcode-select --upgrade
+xcode-select -p
+brew update && brew doctor
+ls -l /usr/local/bin
+ls -l /usr/local/bin/python2
+ls /usr/local/bin/python2
+brew link python@2
+which python
+ls -l /usr/bin/python
+python
+unlink /usr/bin/python
+sudo unlink /usr/bin/python
+brew link python@2
+brew unlink python
+brew link python@2
+python
+which python
+/usr/local/bin/python
+alias py2=/usr/local/bin/python
+vi ~/.bash_aliases
+pytho3
+python3
+brew link python@3
+brew link --overwrite python
+python
+vi ~/.bash_aliases
+jobs
+s
+brew install pyenv
+pyenv versions
+$(pyenv init -)
+pyenv init -
+pyenv versions
+echo 'eval "$(pyenv init -)"'
+echo 'eval "$(pyenv init -)"' >> ~/.bash_profile
+s
+vi ~/.bash_profile
+vim ~/.bash_profile
+opens ~/.bash_profile
+s
+s
+vi ~/.bash_profile 
+s
+brew install jupyter
+brew reinstall jupyterlab
+jupyter notebook
+open http://localhost:8888/?token=b8160ccdd57a07edc071a78ce898a1fd1c23d29c9a9211da
+jupyter notebook
+/Users/bcoff/Downloads/excl-3.1.0/bin/excl-qt ; exit;

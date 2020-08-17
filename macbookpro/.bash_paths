@@ -1,0 +1,17 @@
+#alias py=/home/bcoff/venv/current/bin/python
+#alias activate='source /mnt/bcoff/venv/gen2/bin/activate'
+export PYTHONPATH=".:${HOME}/PycharmProjects"
+
+#alias python=/home/madmin/venv/gen2/bin/python
+#export PATH="/home/madmin/venv/gen2/bin:$PATH"
+# export PATH="/mnt/bcoff/venv/gen2/bin:$PATH"
+export PATH="$HOME/bin:$PATH"
+# export PATH="$PATH:/usr/local/java/bin"
+# export PATH="$PATH:/usr/local/java/bin:/home/$USER/local/kafka_2.8.0-0.8.0/bin"
+source $HOME/.bash_aliases
+# source $HOME/.git-prompt.sh
+source $HOME/.sshrc
+
+# source $HOME/.bash_init_hist
+
+# export PERL5LIB=":/Users/$HOME/perl5/lib/perl5"

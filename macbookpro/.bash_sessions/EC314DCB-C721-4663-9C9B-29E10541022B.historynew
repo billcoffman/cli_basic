@@ -1,0 +1,111 @@
+py
+workon CMS
+workon
+workon torch
+py
+python
+python3
+which python
+workon
+workon datascience
+which python
+py
+pwd
+ls ../../dev
+ls ../../dev/cms/
+ls ../../dev/cms/ai
+find ../../dev/cms/ -name \*.py
+find ../../dev/cms/ -name \*.py|tar czfT - cms.tar
+find ../../dev/cms/ -name \*.py|tar czf cms.tgz -T -
+tar tzf cms.tgz 
+pwd
+mv cms.tgz ../cms0/
+cd ../cms0/
+mkdir -p x/y
+cd x/y
+mv ../../cms.tgz .
+tar xzvf cms.tgz 
+ll
+cd ../../../datascience/
+#find ../../dev/cms/ -name \*.py|tar czf cms.tgz -T -
+cd ../..
+cd dev
+find cms/ -name \*.py|tar czf cms.tgz -T -
+mv cms.tgz ../PycharmProjects/cms0/x/y/
+cd ../PycharmProjects/cms0/
+pwd
+ll
+mv x/y/cms.tgz .
+tar tzf cms.tgz 
+ll
+tar xzvf cms.tgz 
+ll
+rm -rf x/
+rm cms.tgz 
+ll
+find cms/
+cd cms/
+ll
+ll x
+ll ai
+ll ai/predict-stocks-linear-regression/
+mv ai/predict-stocks-linear-regression/predicting-stock-market-using-linear-regression.py ai/
+rmdir ai/predict-stocks-linear-regression/
+ll
+ll ai
+ll x
+ll oracle_cloud/
+vi oracle_cloud/oraconn.py 
+rm -rf oracle_cloud/
+ll
+ll price_downloader/
+ll crypto_compare/
+ll crypto_compare/streaming-guides/
+ll crypto_compare/streaming-guides/examples/
+ll crypto_compare/streaming-guides/examples/python/
+ll
+pwd
+cd ..
+cd ..
+cd jobs/
+l
+find
+find .
+find .|xargs grep -i docker
+find . -type f|xargs grep -i docker
+ls
+ls magicleap/
+find . -type f|xargs grep -i docker
+find . -type f|xargs grep -i docker
+vi https://www.linkedin.com/in/billcoffman/
+vi https://www.linkedin.com/in/billcoffman/
+vi https://www.linkedin.com/in/billcoffman/
+vi ~/notes/docker-notes.txt
+ls
+ls magicleap/
+ls magicleap/notes.txt 
+vi magicleap/notes.txt 
+grep docker ~/.bash_aliases*
+co magicleap/config/.bash_aliases_docker ~/
+cp magicleap/config/.bash_aliases_docker ~/
+diff magicleap/config/.bash_aliases_jobs ~/
+man grep
+man grep
+ls ~/bash
+ls ~/config
+cp -a magicleap/config/ ~/config
+ll magicleap/
+ll py
+ll magicleap/py/
+ll magicleap/
+ll magicleap/src
+ll magicleap/src/
+ll magicleap/src/py/
+ll magicleap/
+ll magicleap/config/
+cat magicleap/notes.txt 
+ls ~/config/
+ls -l ~/config/
+ls -la ~/config/
+jobs
+vi ~/.bash_profile 

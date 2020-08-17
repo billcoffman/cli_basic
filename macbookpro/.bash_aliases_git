@@ -1,0 +1,12 @@
+#!/bin/bash
+
+#echo Hello Bash_Aliases git\!
+
+# Git aliases.
+alias gpo='git rev-parse --abbrev-ref HEAD | xargs git push origin'
+alias gpso='git rev-parse --abbrev-ref HEAD | xargs git push origin'
+alias gplo='git rev-parse --abbrev-ref HEAD | xargs git pull origin'
+alias gb='git branch'
+alias gcb="perl $HOME/bin/git_change_branch.pl"
+alias gmd="perl $HOME/bin/git_merge_down.pl"
+alias gstat='git status|less'
