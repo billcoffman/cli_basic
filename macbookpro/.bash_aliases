@@ -27,9 +27,20 @@ alias gcb="perl $HOME/bin/git_change_branch.pl"
 alias gmd="perl $HOME/bin/git_merge_down.pl"
 alias gstat='git status|less'
 
-# Change directory aliases.
-function sd () { switch_dir.pl $@ && dir=$(cat ${HOME}/.sd/curr) && cd "$dir";}
+export SV_HOME=${HOME}/dev/virtualenvs
+# Selection (formerly switch) aliases.
+function sd () { switch_dir.pl    $@ && dir=$(cat ${HOME}/.sd/curr) && cd "$dir";}
 function sb () { switch_branch.pl $@ && git checkout $(cat ${HOME}/.sb/curr);}
+function sv () { switch_venv.pl   $@ && source $(cat ${HOME}/.sv/curr)/bin/activate;}
+# python3 -m venv .venv && source .venv/bin/activate
+
+export WORKON=${SV_HOME}
+export WORKON_HOME=${SV_HOME}
+alias python=python3
+alias py=python3
+alias py3=python3
+alias py2=python2
+
 
 export WORKON=${HOME}/dev/virtualenvs
 export WORKON_HOME=${HOME}/dev/virtualenvs
